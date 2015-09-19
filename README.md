@@ -1,6 +1,5 @@
 piotrwitek.github.io
 ====================
 
-My Playground
-
+My github playground
 witek.info
